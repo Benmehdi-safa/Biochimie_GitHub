@@ -23,6 +23,7 @@ Les globules blancs (leucocytes) : défendent le corps contre les infections.
 
 Les plaquettes (thrombocytes) : interviennent dans la coagulation du sang.
 
+
 ⚗️ Fonctions principales du sang
 
 Transport : Oxygène, dioxyde de carbone, nutriments, hormones.
